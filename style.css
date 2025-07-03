@@ -17,6 +17,8 @@ body{
     width: 10%;
     display: block;
     margin:  0 auto;
+    text-transform: capitalize;
+    background-color: rgb(255, 251, 0);
 }
 .container h1{
     text-align: center;
@@ -30,6 +32,7 @@ body{
     color: rgb(255, 251, 0);
     width: 50%;
     margin: 0 auto;
+    padding-bottom: 20px;
 }
 
 .destination-hawaii{
