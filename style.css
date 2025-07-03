@@ -20,6 +20,7 @@ body{
     text-transform: capitalize;
     background-color: rgb(255, 251, 0);
     font-family: sans-serif;
+    border: none;
 }
 .button:hover{
     background-color: rgb(194, 155, 16);
