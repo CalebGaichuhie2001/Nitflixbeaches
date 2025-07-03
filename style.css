@@ -173,7 +173,7 @@ body{
     border-right: none; 
     border-bottom: 1px solid rgb(0,0,0);
 }
-.form-1 input[::placeholder]{
+.form-1 input[placeholder]{
     color: rgb(0,0,0);
     font-family: sans-serif;
 }
