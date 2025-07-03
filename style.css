@@ -16,6 +16,7 @@ body{
     padding: 20px;
     width: 10%;
     display: inline-block;
+    margin: 10px auto;
 }
 .container h1{
     text-align: center;
