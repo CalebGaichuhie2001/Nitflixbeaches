@@ -176,5 +176,9 @@ body{
 .submit{
     background-color: yellow;
     padding: 20px;
-    width: 10%;
+    width: 30%;
+    border: none;
+    border-radius: 20px;
+    display: block;
+    margin: 0px auto;
 }
