@@ -15,7 +15,7 @@ body{
     border-radius: 20px;
     padding: 20px;
     width: 10%;
-    margin: auto;
+    display: inline-block;
 }
 .container h1{
     text-align: center;
