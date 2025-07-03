@@ -173,3 +173,8 @@ body{
     border-right: none; 
     border-bottom: 1px solid rgb(0,0,0);
 }
+.submit{
+    background-color: yellow;
+    padding: 20px;
+    width: 10%;
+}
