@@ -14,7 +14,8 @@ body{
 .button{
     border-radius: 20px;
     padding: 20px;
-    text-align: center;
+    width: 10%;
+    margin: auto;
 }
 .container h1{
     text-align: center;
