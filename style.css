@@ -146,3 +146,8 @@ body{
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 10px;
 }
+.form-1 fieldset{
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+}
