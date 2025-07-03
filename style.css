@@ -19,6 +19,7 @@ body{
     margin:  0 auto;
     text-transform: capitalize;
     background-color: rgb(255, 251, 0);
+    font-family: sans-serif;
 }
 .container h1{
     text-align: center;
