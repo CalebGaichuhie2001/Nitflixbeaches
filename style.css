@@ -151,3 +151,7 @@ body{
     padding: 20px;
     border-radius: 10px;
 }
+.form-1 legend{
+    font-family: sans-serif;
+    font-size: 24px;
+}
