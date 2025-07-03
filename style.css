@@ -188,3 +188,7 @@ body{
     transition: 1s;
     cursor: pointer;
 }
+.form-1 input::placeholder{
+    color: black;
+    opacity: 1;
+}
