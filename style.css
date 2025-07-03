@@ -166,3 +166,6 @@ body{
     margin-bottom: 10px;
     font-family: sans-serif;
 }
+.form-1 input{
+    background-color: inherit;
+}
