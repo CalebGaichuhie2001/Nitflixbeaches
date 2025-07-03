@@ -161,3 +161,8 @@ body{
     width: 25%;
     margin: 10px auto;
 }
+.form-1 label{
+    display: block;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
